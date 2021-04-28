@@ -67,6 +67,5 @@ yarn-debug.log*
 /storage/*
 !/storage/.keep
 /public/uploads
-tmp/cache/bootsnap/load-path-cache
-tmp/cache/bootsnap/compile-cache/
-log/
+log/*
+tmp/*
